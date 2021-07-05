@@ -1,0 +1,3 @@
+<?phps
+echo "Welcome";
+?>
